@@ -7,3 +7,4 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 Exception
 Switched to a new branch 'dev'
+issue-101
